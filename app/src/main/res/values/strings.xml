@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ECU-Android-Recipe</string>
+
+    <string name="title_placeholder">Enter the recipe title here...</string>
+    <string name="author_placeholder">Enter the recipe description here...</string>
+    <string name="genre_placeholder">Enter the book recipe here...</string>
+    <string name="search_placeholder">Search using the recipe\'s title here...</string>
+
+    <string name="add_book_btn">Add Recipe</string>
+    <string name="view_recipe_list_btn">View Recipe List</string>
+    <string name="home_btn">Return to Home</string>
+
+    <string name="title_recipe">Recipe Title</string>
+    <string name="title_description">Recipe Description</string>
+</resources>
