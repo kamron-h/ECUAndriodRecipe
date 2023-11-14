@@ -1,5 +1,9 @@
 # Simple Recipe Collector App
 
+![Pic0](https://imagedelivery.net/5IPp1ww3GQHMKaYL6DWf-g/b91cbf59-a2a3-4d61-2bcf-ae0e7edcba00/computer)
+![Pic1](https://imagedelivery.net/5IPp1ww3GQHMKaYL6DWf-g/a942689a-5c42-49f1-9364-149442078600/computer)
+![Pic2](https://imagedelivery.net/5IPp1ww3GQHMKaYL6DWf-g/376e3810-9c4f-4e8b-cbd7-f03894aac200/computer)
+
 ## Objective
 
 The Simple Recipe Collector App is an Android application designed to allow users to add and view recipes. Users can enter a recipe title and detailed description, which are stored in Firebase Storage. The app also provides the functionality to retrieve and display recipe details when a user selects a title.
