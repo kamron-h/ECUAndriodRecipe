@@ -1,8 +1,8 @@
 # Simple Recipe Collector App
 
-![Pic0](https://imagedelivery.net/5IPp1ww3GQHMKaYL6DWf-g/b91cbf59-a2a3-4d61-2bcf-ae0e7edcba00/computer)
-![Pic1](https://imagedelivery.net/5IPp1ww3GQHMKaYL6DWf-g/a942689a-5c42-49f1-9364-149442078600/computer)
-![Pic2](https://imagedelivery.net/5IPp1ww3GQHMKaYL6DWf-g/376e3810-9c4f-4e8b-cbd7-f03894aac200/computer)
+![Home View. Displaying the input options for title and description, followed by a submit and search button.](https://imagedelivery.net/5IPp1ww3GQHMKaYL6DWf-g/b91cbf59-a2a3-4d61-2bcf-ae0e7edcba00/computer)
+![Description View. Displaying the imputed title and description of the recipe.](https://imagedelivery.net/5IPp1ww3GQHMKaYL6DWf-g/a942689a-5c42-49f1-9364-149442078600/computer)
+![Recipe List View. Displaying a vertical list of all recipes in the database.](https://imagedelivery.net/5IPp1ww3GQHMKaYL6DWf-g/376e3810-9c4f-4e8b-cbd7-f03894aac200/computer)
 
 ## Objective
 
